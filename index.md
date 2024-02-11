@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 Ph.D. student in Computer Science, Università degli Studi di Milano.\\
-[[orcid](https://orcid.org/0009-0004-1813-8056)] - [[scholar](https://scholar.google.com/citations?user=lAIwajgAAAAJ)] - [[dblp](https://dblp.org/pid/228/4333.html)] - [[scopus](https://www.scopus.com/authid/detail.uri?authorId=57204637431)]
+[[orcid](https://orcid.org/0009-0004-1813-8056){:target="_blank"}] - [[scholar](https://scholar.google.com/citations?user=lAIwajgAAAAJ){:target="_blank"}] - [[dblp](https://dblp.org/pid/228/4333.html){:target="_blank"}] - [[scopus](https://www.scopus.com/authid/detail.uri?authorId=57204637431){:target="_blank"}]
 
 ## Research Interests
 
@@ -21,13 +21,13 @@ Distributed Algorithms - Mobile Agents - Computational Complexity
 
 ## Publications
 
-- [_O(log n)-Time Uniform Circle Formation for Asynchronous Opaque Luminous Robots_](https://doi.org/10.4230/LIPIcs.OPODIS.2023.5)
+- [_O(log n)-Time Uniform Circle Formation for Asynchronous Opaque Luminous Robots_](https://doi.org/10.4230/LIPIcs.OPODIS.2023.5){:target="_blank"}
     - Caterina Feletti, Carlo Mereghetti, Beatrice Palano, *OPODIS 2023*
-- [_Uniform Circle Formation for Fully, Semi-, and Asynchronous Opaque Robots with Lights_](https://doi.org/10.3390/app13137991)
+- [_Uniform Circle Formation for Fully, Semi-, and Asynchronous Opaque Robots with Lights_](https://doi.org/10.3390/app13137991){:target="_blank"}
     - Caterina Feletti, Carlo Mereghetti, Beatrice Palano, *Applied Sciences, MDPI 2023*
-- [_Uniform Circle Formation for Fully, Semi-, and Asynchronous Opaque Robots with Lights_](https://ceur-ws.org/Vol-3284/8511.pdf)
+- [_Uniform Circle Formation for Fully, Semi-, and Asynchronous Opaque Robots with Lights_](https://ceur-ws.org/Vol-3284/8511.pdf){:target="_blank"}
     - Caterina Feletti, Carlo Mereghetti, Beatrice Palano, Priscilla Raucci, *ICTCS 2022*
-- [_Uniform circle formation for swarms of opaque robots with lights_](https://doi.org/10.1007/978-3-030-03232-6_21)
+- [_Uniform circle formation for swarms of opaque robots with lights_](https://doi.org/10.1007/978-3-030-03232-6_21){:target="_blank"}
     - Caterina Feletti, Carlo Mereghetti, Beatrice Palano, *SSS 2018*
 
 
@@ -55,5 +55,5 @@ Distributed Algorithms - Mobile Agents - Computational Complexity
 
 
 
-## Ect
-Ecology | [Photography](https://godotnestpas.blogspot.com/) | Trekking
+## Etc
+Ecology | [Photography](https://godotnestpas.blogspot.com/){:target="_blank"} | Trekking
