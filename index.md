@@ -2,22 +2,58 @@
 layout: homepage
 ---
 
-## About Me
-
-I am a Ph.D. student at ...
+Ph.D. student in Computer Science, Università degli Studi di Milano.\\
+[[orcid](https://orcid.org/0009-0004-1813-8056)] - [[scholar](https://scholar.google.com/citations?user=lAIwajgAAAAJ)] - [[dblp](https://dblp.org/pid/228/4333.html)] - [[scopus](https://www.scopus.com/authid/detail.uri?authorId=57204637431)]
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+Distributed Algorithms - Mobile Agents - Computational Complexity
 
-## News
+## Conferences, Schools
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **MAC 2023**, Research Meeting and School on Distributed Computing by Mobile Robots, Tokyo
+- **OPODIS 2023**, International Conference on Principles of Distributed Systems, Tokyo
+- **DISC 2023**, International Symposium on Distributed Computing, L'Aquila
+- **ICTCS 2022**, Italian Conference on Theoretical Computer Science, Rome
+- **SSS 2018**, International Symposium on Stabilization, Safety, and Security of Distributed Systems, Tokyo
+- **MFCS 2015**, International Symposium on Mathematical Foundations of Computer Science, Milan
 
-{% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+## Publications
+
+- [_O(log n)-Time Uniform Circle Formation for Asynchronous Opaque Luminous Robots_](https://doi.org/10.4230/LIPIcs.OPODIS.2023.5)
+    - Caterina Feletti, Carlo Mereghetti, Beatrice Palano, *OPODIS 2023*
+- [_Uniform Circle Formation for Fully, Semi-, and Asynchronous Opaque Robots with Lights_](https://doi.org/10.3390/app13137991)
+    - Caterina Feletti, Carlo Mereghetti, Beatrice Palano, *Applied Sciences, MDPI 2023*
+- [_Uniform Circle Formation for Fully, Semi-, and Asynchronous Opaque Robots with Lights_](https://ceur-ws.org/Vol-3284/8511.pdf)
+    - Caterina Feletti, Carlo Mereghetti, Beatrice Palano, Priscilla Raucci, *ICTCS 2022*
+- [_Uniform circle formation for swarms of opaque robots with lights_](https://doi.org/10.1007/978-3-030-03232-6_21)
+    - Caterina Feletti, Carlo Mereghetti, Beatrice Palano, *SSS 2018*
+
+
+## Experience
+{BSc, MSc} in Computer Science at the University of Milan, *cum laude*.
+
+**Academic experience:**
+
+
+- Tutoring
+	- in the *Programming* course, Physics Bachelor program (2023)
+	- in the *Algorithms and Data Structures* course, Computer Science Bachelor program (2015, 2016)
+- Lectures on Complexity Theory 
+	- in the *Data Structures and Algorithms of Physics of Data* course, Physics Master program (2022, 2023)
+	- in the *Theoretical Computer Science* course, Computer Science Master program (2017)
+- Professor assistance in the *Formal Languages and Automata* course, Computer Science Bachelor program (2016, 2017, 2023)
+- Thesis supervision in the field of *Mobile Robots* and in the field of *Formal Languages and Automata* (2023, 2024)
+
+
+**Work experience:**
+- Four years as full-time Software Developer
+- Experience with Google Cloud Platform
+- Former *Google Cloud {Associate, Data} Engineer* (certified in 2018, 2019)
+- Experience in Clinical Research
+
+
+
+## Ect
+Ecology | [Photography](https://godotnestpas.blogspot.com/) | Trekking
